@@ -4,7 +4,6 @@
 * Name:  DOMPDF
 * 
 * Author: Geordy James 
-* 	 	  geordy06@gmail.com
 *         @geordyjames
 *          
 *
