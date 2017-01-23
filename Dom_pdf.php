@@ -6,12 +6,13 @@
 * Author: Geordy James 
 *         @geordyjames
 *          
-*
+*Location : https://github.com/geordyjames/Codeigniter-Dompdf-v0.7.0-Library
+
 * Origin API Class: https://github.com/dompdf/dompdf
 *          
 * Created:  24.01.2017
 
-* Created by Geordy James to give support to dompdf 0.7.x and above 
+* Created by Geordy James to give support to dompdf 0.7.0 and above 
 * 
 * Description:  This is a Codeigniter library which allows you to convert HTML to PDF with the DOMPDF library
 * 
