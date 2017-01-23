@@ -1,5 +1,5 @@
 # A codeigniter library for dompdf version 0.7 and above
-### Download dompdf latest version from http://dompdf.github.com/ and copy it to application/third_party folder
+### Download dompdf latest version from https://github.com/dompdf/dompdf and copy it to application/third_party folder
 ### You can also install dompdf easily using composer
 ### load library in your controllers - $this->load->library('Dom_pdf');
 
@@ -9,4 +9,4 @@
     // Convert to PDF
     $this->dompdf->load_html($html);        
     $this->dompdf->render();
-    $this->dompdf->stream("Heads.pdf");
+    $this->dompdf->stream("sample.pdf");
